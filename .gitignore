@@ -1,0 +1,10 @@
+.vscode
+node_modules
+
+**/.DS_Store
+**/*.log
+docs/*
+!.gitkeep
+
+gh-pages
+gh-pages.pub
